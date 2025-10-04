@@ -1,1 +1,1 @@
-This project uses 2 IR sensors, 1 LCD, and an Arduino UNO.
+This project is a parking lot management system. It uses 2 IR sensors, 1 for entry and another for exit. Entrance IR will reduce the parking slots available while the exit will reduce the set number of available slots. When the Entrance IR detects an object, the count will reduce and the servo-motor will bring the barricade up.
